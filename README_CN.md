@@ -2,7 +2,7 @@
 
 ## 代码说明
 
-论文源代码: [Sun, Biao, et al. "Graph Convolution Neural Network based End-to-end Channel Selection and Classification for Motor Imagery Brain-computer Interfaces." IEEE Transactions on Industrial Informatics (2022).](https://ieeexplore.ieee.org/abstract/document/9976236/). 该论文是**开放获取(Open Access)**的，因此不需要付费就可以下载。
+论文源代码: [Sun, Biao, et al. "Graph Convolution Neural Network based End-to-end Channel Selection and Classification for Motor Imagery Brain-computer Interfaces." IEEE Transactions on Industrial Informatics (2022).](https://ieeexplore.ieee.org/abstract/document/9976236/). 该论文是开放获取(Open Access)的，因此不需要付费就可以下载。
 
 在当前的仓库中，我们提供了tju dataset中的17号被试的数据和标签以及BCI Competition IV 2a中的7号被试的数据和标签。论文中tju dataset的其他被试数据暂未开源，如有需要请联系作者。你也可以很方便的在自己的数据集上使用本代码。
 
